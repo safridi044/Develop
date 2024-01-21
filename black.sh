@@ -1,1 +1,1 @@
-echo "Jenkins test" > /mnt/check
+echo "Jenkins test success" > /mnt/check
