@@ -1,1 +1,1 @@
-echo "Jenkins test success" > /jen/check
+date  > /jen/check
