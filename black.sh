@@ -1,1 +1,0 @@
-date  > /jen/check
